@@ -1,0 +1,101 @@
+{
+	"folders": [
+		{
+			"path": "cs1410-module0-activities-jaredanderson8"
+		},
+		{
+			"name": "cs1410-module1-activities-jaredanderson8",
+			"path": "cs1410-module1-activities-jaredanderson8"
+		},
+		{
+			"name": "cs1410-module2-activities-jaredanderson8",
+			"path": "cs1410-module2-activities-jaredanderson8"
+		},
+		{
+			"name": "cs1410-exam1-jaredanderson8",
+			"path": "cs1410-exam1-jaredanderson8"
+		},
+		{
+			"name": "cs1410-module3-activities-jaredanderson8",
+			"path": "cs1410-module3-activities-jaredanderson8"
+		},
+		{
+			"name": "cs1410-module4-activities-jaredanderson8",
+			"path": "cs1410-module4-activities-jaredanderson8"
+		},
+		{
+			"path": "cs1410-exam2-jaredanderson8"
+		},
+		{
+			"name": "cs1410-module5-activities-jaredanderson8",
+			"path": "cs1410-module5-activities-jaredanderson8"
+		},
+		{
+			"name": "cs1410-module6-activities-jaredanderson8",
+			"path": "cs1410-module6-activities-jaredanderson8"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"chrono": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"condition_variable": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"optional": "cpp",
+			"ratio": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"fstream": "cpp",
+			"future": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"memory": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"numeric": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"thread": "cpp",
+			"regex": "cpp",
+			"utility": "cpp",
+			"typeinfo": "cpp",
+			"iterator": "cpp",
+			"map": "cpp",
+			"memory_resource": "cpp",
+			"random": "cpp",
+			"set": "cpp",
+			"string": "cpp",
+			"variant": "cpp",
+			"complex": "cpp",
+			"codecvt": "cpp"
+		}
+	}
+}
